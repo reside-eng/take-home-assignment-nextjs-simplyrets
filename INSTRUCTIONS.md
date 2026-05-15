@@ -72,8 +72,8 @@ Before getting started, please read this document carefully.
 - The application successfully runs with no console errors or warnings
 - Production-like code that must be well coded, clean, and commented
 - UI must be responsive and clean
-- UI should closely match the mockup.
-- Intermediate screen width behavior should be reasonable.
+- UI should closely match the mockup (desktop and mobile)
+- Intermediate screen width behavior should be reasonable
 - General understanding of semantic markup and accessibility
 - Tests must be passing and meaningful
 - General React knowledge
@@ -81,8 +81,7 @@ Before getting started, please read this document carefully.
 # Submission
 
 Once you are satisfied with your assignment, please publish your code and README
-to your personal Git repository and send the repository link to the email our recruiter has
-provided. Please *do not* create a fork or PR in the assignment repository.
+to your personal Git repository and send the repository link to the email our recruiter has provided. Please *do not* create a fork or PR in the assignment repository.
 
 ## AI Tool Usage Policy
 
